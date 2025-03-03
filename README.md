@@ -86,15 +86,8 @@ The best model achieved an accuracy of **77.51%** on the test set. Key evaluatio
 
     accuracy                           0.78      1512
    macro avg       0.71      0.76      0.73      1512
-weighted avg       0.81      0.78      0.79      1512
+   weighted avg       0.81      0.78      0.79      1512
   ```
 - **ROC Curve**: Saved in `results/roc_curve.png`
-
-## Future Improvements
-- Feature selection to improve model performance.
-- Experiment with ensemble models (e.g., Random Forest, XGBoost).
-- Hyperparameter tuning for further optimization.
-- Deployment as a web app using Flask or Streamlit.
-
----
+  ---
 📌 **Author**: Oscar 
