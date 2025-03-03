@@ -28,7 +28,6 @@ The target variable is `RainTomorrow`, which indicates whether there will be at 
 ├── 📂 data               # Raw and processed data
 ├── 📂 models             # Saved trained models
 ├── 📂 results            # Evaluation results and visualizations
-├── 📂 notebooks          # Jupyter notebooks for exploration and analysis
 ├── 📂 src                # Python scripts for different stages
 │   ├── 01_get_data.py            # Load and preprocess the dataset
 │   ├── 02_preprocess_data.py      # Handle missing values and clean data
